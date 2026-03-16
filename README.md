@@ -2,7 +2,7 @@
 Official release of desktop overlay for tasks view, system info and network testing with RAM cleaning option.
 
 <p align="center">
-  <img src="overlay-pil.svg" alt="overlay pil" width="240" />
+  <img src="overlay.svg" alt="overlay" width="240" />
 </p>
 
 ## Download links
