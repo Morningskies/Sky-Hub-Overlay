@@ -7,7 +7,7 @@ Official release of desktop overlay for tasks view, system info and network test
 
 ## Download links
 
-[Windows x64](https://github.com/Morningskies/Sky-Hub-Overlay/releases/tag/x64)
+[Windows x64](https://github.com/Morningskies/Sky-Hub-Overlay/releases/tag/64)
 
 [Windows x86](https://github.com/Morningskies/Sky-Hub-Overlay/releases/tag/x86)
 
